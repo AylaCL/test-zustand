@@ -1,0 +1,6 @@
+.customButton {
+    background-color: var(--accent-bg);
+    color: var(--accent);
+    padding: 8px;
+    border-radius: 8px;
+}
