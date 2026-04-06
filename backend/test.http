@@ -1,0 +1,11 @@
+### Get count
+GET http://localhost:8000/count
+
+### Increment
+POST http://localhost:8000/count/increment
+
+### Decrement
+POST http://localhost:8000/count/decrement
+
+### 404 test
+GET http://localhost:8000/does-not-exist
